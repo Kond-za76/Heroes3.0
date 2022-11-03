@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Weapons.Bow">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAACCAAAAAAAAAgAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapons.Axe">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAACCAAAAAAAAAgAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Axe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapons.Weapon">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAACAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapons.Baton">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAACCAAAAAAAAAgAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Baton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapons.UseWeapon">
+    <Position X="12.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UseWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
